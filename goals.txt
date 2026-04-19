@@ -1,0 +1,10 @@
+My Personal and Academic Goals for Next Year
+Successfully Complete the ALX Data Engineering Track: Master the fundamentals of building robust data pipelines, managing large datasets, and optimizing ETL processes to transition into a Data Engineering role.
+
+Achieve AWS Solutions Architect Certification: Pass the SAA-C03 exam to validate my expertise in designing and deploying scalable, cost-effective systems on the AWS cloud platform.
+
+Enroll in the BBA Program at Nexford University: Begin my Bachelor of Business Administration in September to complement my technical skills with business strategy and management foundations.
+
+Advance Cloud Infrastructure Skills: Gain hands-on experience in cloud networking and security, specifically focusing on the intersection of cloud services and data analytics.
+
+Explore Tech Applications in Aviation: Research and build a small-scale project that demonstrates the use of data engineering or real-time data processing within the aviation industry.
